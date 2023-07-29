@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-prueba 2 modulo 2
+segunda prueba ára crear y clonar un repositorio github al escritorio
